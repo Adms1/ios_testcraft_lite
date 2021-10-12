@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CLIENT_ID</key>
+    <string>1019001765891-of9s52hilme0ei89a6e0n19mmrf4354d.apps.googleusercontent.com</string>
+    <key>REVERSED_CLIENT_ID</key>
+    <string>com.googleusercontent.apps.1019001765891-of9s52hilme0ei89a6e0n19mmrf4354d</string>
+    <key>ANDROID_CLIENT_ID</key>
+    <string>1019001765891-m5260dl112gco2g1f6j0bsrajmvdq8uo.apps.googleusercontent.com</string>
+    <key>API_KEY</key>
+    <string>AIzaSyAnhapoFQsnZnPYD-nrNrYRuyn_0AjmPqc</string>
+    <key>GCM_SENDER_ID</key>
+    <string>1019001765891</string>
+    <key>PLIST_VERSION</key>
+    <string>1</string>
+    <key>BUNDLE_ID</key>
+    <string>com.tc.testcraft</string>
+    <key>PROJECT_ID</key>
+    <string>test-craft-261610</string>
+    <key>STORAGE_BUCKET</key>
+    <string>test-craft-261610.appspot.com</string>
+    <key>IS_ADS_ENABLED</key>
+    <false></false>
+    <key>IS_ANALYTICS_ENABLED</key>
+    <false></false>
+    <key>IS_APPINVITE_ENABLED</key>
+    <true></true>
+    <key>IS_GCM_ENABLED</key>
+    <true></true>
+    <key>IS_SIGNIN_ENABLED</key>
+    <true></true>
+    <key>GOOGLE_APP_ID</key>
+    <string>1:1019001765891:ios:2b602951da80de53284e36</string>
+    <key>DATABASE_URL</key>
+    <string>https://test-craft-261610.firebaseio.com</string>
+</dict>
+</plist>
